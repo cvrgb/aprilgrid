@@ -1,3 +1,0 @@
-/home/czhou/Projects/aprilgrid/build/CMakeFiles/rebuild_cache.dir
-/home/czhou/Projects/aprilgrid/build/CMakeFiles/edit_cache.dir
-/home/czhou/Projects/aprilgrid/build/CMakeFiles/test.dir
